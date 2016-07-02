@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["default","Return the default source."]],"struct":[["Default","The default source, which is the Xorshift128+ algorithm."],["Sequence","A random sequence."],["Xorshift128Plus","The Xorshift128+ algorithm."]],"trait":[["Source","A source of randomness."],["Value","A random value."]]});
